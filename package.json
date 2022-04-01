@@ -32,5 +32,6 @@
     "semantic-release": "^19.0.2",
     "toys": "file:packages/toys",
     "website": "file:packages/website"
-  }
+  },
+  "version": "1.0.0"
 }
