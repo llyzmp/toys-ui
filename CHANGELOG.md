@@ -1,3 +1,13 @@
+# [1.3.0](https://github.com/llyzmp/toys-ui/compare/v1.2.0...v1.3.0) (2022-04-02)
+
+
+### Features
+
+* 修改分支 ([a1a0c53](https://github.com/llyzmp/toys-ui/commit/a1a0c53f98766bea75119e37d24aeaf2fba492dc))
+* 修改吃吃吃 ([142300d](https://github.com/llyzmp/toys-ui/commit/142300d40914f88397359015641fd3f7872fef85))
+* 修改测试 ([12acc6e](https://github.com/llyzmp/toys-ui/commit/12acc6ee74c871743df041aaf962a97526f06ce2))
+* 测试版本号生成规则 ([ff98b63](https://github.com/llyzmp/toys-ui/commit/ff98b63026bfdfb45e5cf0cc78af86d2a9c74b60))
+
 # [1.2.0](https://github.com/llyzmp/toys-ui/compare/v1.1.5...v1.2.0) (2022-04-02)
 
 
