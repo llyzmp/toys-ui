@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/llyzmp/toys-ui/compare/v1.1.5...v1.2.0) (2022-04-02)
+
+
+### Features
+
+* 修改测试 ([e6a743f](https://github.com/llyzmp/toys-ui/commit/e6a743fe4709757d2cd011c0be63a9ad8f734464))
+
 # 更新历史 
 
 
