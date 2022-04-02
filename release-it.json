@@ -55,5 +55,8 @@
         "commitUrlFormat": "https://github.com/lpreterite/datagent/commit/{{hash}}"
       }
     }
+  },
+  "npm": {
+    "publish": false
   }
 }

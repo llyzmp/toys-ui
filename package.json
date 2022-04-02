@@ -1,6 +1,6 @@
 {
   "name": "root",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "private": true,
   "license": "MIT",
   "workspaces": [
@@ -11,7 +11,8 @@
     "prettier": "prettier --ignore-path .gitignore \"packages/*/+(src|__tests__|components)/**/*.+(ts|tsx)\"",
     "prepare": "husky install",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
-    "release": "standard-version"
+    "release": "standard-version",
+    "log": "git log --pretty=format:\"* %s (%h)\" ${from}...${to}"
   },
   "lint-staged": {
     "packages/**/**/*.{ts,tsx}": "prettier --write --ignore-unknown"
